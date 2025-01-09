@@ -60,14 +60,6 @@ class TicketController extends Controller
     }
 
 
-    public function show($id)
-    {
-        $TicketType = TicketType::all();
-        $Project = Project::all();
-        $ticket = Ticket::all();
-        return view('tickets.show', compact('TicketType', 'Project', 'ticket'));
-    }
-
     public function edit($id)
     {
         $ticket = Ticket::findOrFail($id);

@@ -43,17 +43,15 @@
                         <td class="border border-gray-300 px-4 py-2">{{ $item->status }}</td>
                         <td class="border border-gray-300 px-4 py-2">{{ $item->Project->name }}</td>
                         <td class="border border-gray-300 px-4 py-2 text-center">
-                            {{-- <a href="{{ route('tickets.show', $item->id) }}"
-                                class="bg-green-500 hover:bg-green-700 text-white font-bold py-1 px-2 rounded">Lihat</a> --}}
-                            <a href="{{ route('tickets.edit', $item->id) }}"
+                                <a href="{{ route('tickets.edit', $item->id) }}"
                                 class="bg-yellow-500 hover:bg-yellow-700 text-white font-bold py-1 px-2 rounded">Edit</a>
-                            {{-- <form action="{{ route('tickets.destroy', $item->id) }}" method="POST" class="inline">
+                            <form action="{{ route('tickets.destroy', $item->id) }}" method="POST" class="inline">
                                 @csrf
                                 @method('DELETE')
                                 <button type="submit"
                                     class="bg-red-500 hover:bg-red-700 text-white font-bold py-1 px-2 rounded"
                                     onclick="return confirm('Apakah Anda yakin?')">Hapus</button>
-                            </form> --}}
+                            </form>
                         </td>
                     </tr>
                 @empty

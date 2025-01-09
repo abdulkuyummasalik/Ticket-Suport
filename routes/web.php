@@ -5,6 +5,10 @@ use App\Http\Controllers\TicketTypeController;
 use App\Http\Controllers\ProjectController;
 use App\Http\Controllers\TicketController;
 
+Route::get('/', function(){
+    return view('home');
+});
+
 Route::prefix('/ticket_types')->name('ticket_types.')->group(function () {
     Route::get('/', [TicketTypeController::class, 'index'])->name('index');
     Route::get('/create', [TicketTypeController::class, 'create'])->name('create');
@@ -27,7 +31,6 @@ Route::prefix('/tickets')->name('tickets.')->group(function () {
     Route::get('/', [TicketController::class, 'index'])->name('index');
     Route::get('/create', [TicketController::class, 'create'])->name('create');
     Route::post('/store', [TicketController::class, 'store'])->name('store');
-    Route::get('/show/{id}', [TicketController::class, 'show'])->name('show');
     Route::get('/edit/{id}', [TicketController::class, 'edit'])->name('edit');
     Route::put('/update/{id}', [TicketController::class, 'update'])->name('update');
     Route::delete('/destroy/{id}', [TicketController::class, 'destroy'])->name('destroy');

@@ -64,3 +64,27 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## DOKUMENTASI
+![Ticket Support - Google Chrome 09_01_2025 18 13 16](https://github.com/user-attachments/assets/6a486206-1a7d-4bd2-a86a-34b68cd48412)
+![Ticket Support - Google Chrome 09_01_2025 18 13 01](https://github.com/user-attachments/assets/39b46c90-5ad0-437f-942d-944cb4e942ef)
+![Ticket Support - Google Chrome 09_01_2025 18 12 42](https://github.com/user-attachments/assets/e362b700-24fc-4419-a62b-e7b5eff159d5)
+![Ticket Support - Google Chrome 09_01_2025 18 12 20](https://github.com/user-attachments/assets/58a43c64-8a38-4f5d-86db-1ae09bdaca94)
+![Ticket Support - Google Chrome 09_01_2025 18 12 07](https://github.com/user-attachments/assets/e9086aeb-f171-46af-9edb-373a06b4bd7a)
+![Ticket Support - Google Chrome 09_01_2025 18 11 51](https://github.com/user-attachments/assets/3a694ea2-06b7-405a-a206-c06343863e1a)
+![Ticket Support - Google Chrome 09_01_2025 18 11 40](https://github.com/user-attachments/assets/1c0dbbac-1d83-4c9d-b6eb-1b823c0e74a7)
+![Ticket Support - Google Chrome 09_01_2025 18 11 26](https://github.com/user-attachments/assets/98cf3147-99ed-4f1a-820b-6f7a7117e77e)
+![Ticket Support - Google Chrome 09_01_2025 18 10 43](https://github.com/user-attachments/assets/4afb1194-9c2a-4648-9fa2-68fbea492a67)
+![Ticket Support - Google Chrome 09_01_2025 18 10 19](https://github.com/user-attachments/assets/dfecb676-8bc9-4047-b10e-69f45126518e)
+![Ticket Support - Google Chrome 09_01_2025 18 09 05](https://github.com/user-attachments/assets/ae718b6f-bfb9-4545-a761-70b53653e29d)
+
+
+
+
+
+
+
+
+
+
